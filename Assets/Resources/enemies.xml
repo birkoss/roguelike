@@ -1,0 +1,53 @@
+<enemy_master>
+ 	<enemies>
+ 		<enemy name="Skeleton">
+ 			<health>9</health>
+ 			<speed>50</speed>
+ 			<attack>7</attack>
+ 			<defense>3</defense>
+ 			<prefab>0</prefab>
+ 			<range>1</range>
+      <actions>
+        <action>attack</action>
+      </actions>
+ 		</enemy>
+    <enemy name="Mage Skeleton">
+ 			<health>9</health>
+ 			<speed>30</speed>
+ 			<attack>13</attack>
+ 			<defense>3</defense>
+ 			<prefab>0</prefab>
+ 			<range>3</range>
+      <actions>
+        <action>attack</action>
+      </actions>
+ 		</enemy>
+    <enemy name="King Skeleton">
+ 			<health>26</health>
+ 			<speed>50</speed>
+ 			<attack>16</attack>
+ 			<defense>6</defense>
+ 			<prefab>0</prefab>
+ 			<range>1</range>
+      <actions>
+        <action>attack</action>
+      </actions>
+ 		</enemy>
+ 		<enemy name="Rat">
+ 			<health>15</health>
+      <speed>50</speed>
+      <attack>10</attack>
+      <defense>7</defense>
+      <prefab>2</prefab>
+      <range>1</range>
+ 		</enemy>
+    <enemy name="Specter">
+ 			<health>23</health>
+      <speed>50</speed>
+      <attack>20</attack>
+      <defense>12</defense>
+      <prefab>3</prefab>
+      <range>1</range>
+ 		</enemy>
+ 	</enemies>
+</enemy_master>

@@ -1,0 +1,18 @@
+- Il faut que le preview  quand on drag un character montre ce que le chacter va faire
+  - Si heal, montrer qui
+  - Si attack, montrer qui
+
+- Faire que le chest aussi est un living object, avec un deadSprite different;
+  - Destructible par un enemy :D
+
+- Faire que le popup de Character, affiche DEAD au lieu du HP ?
+  - Sinon afficher DEAD + name...
+
+Equip Popup
+  - Faire qu'on peut unselected un Toggle et il masque le bouton
+
+- Si Inventory Full
+  - Send to warehouse (Avec un message qui disparait apres 15 sec)
+
+- Afficher un warning si le health est bas...
+  - Si en bas de 10%

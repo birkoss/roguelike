@@ -1,0 +1,65 @@
+<loot_table>
+  <tables>
+    <!-- Items //-->
+    <table name="Loot">
+      <table_items>
+        <table_entry table="Gold" weight="50" />
+        <table_entry table="Weapon" weight="10" />
+      </table_items>
+    </table>
+    <table name="Weapon">
+      <table_items>
+        <table_entry table="Sword" weight="50" />
+      </table_items>
+    </table>
+    <table name="Gold">
+      <table_items>
+        <table_entry item="Gold" weight="10" />
+      </table_items>
+    </table>
+    <table name="Sword">
+      <table_items>
+        <table_entry item="Silver Sword" weight="300" />
+        <table_entry item="Emerald Sword" weight="200" />
+        <table_entry item="Gold Sword" weight="100" />
+        <table_entry item="Diamond Sword" weight="60" />
+        <table_entry item="Ninja Sword" weight="40" />
+        <table_entry item="Muramasa" weight="15" />
+        <table_entry item="Bastard Sword" weight="10" />
+        <table_entry item="Broad Sword" weight="8" />
+        <table_entry item="Demon Sword" weight="4" />
+        <table_entry item="Diabolic Sword" weight="1" />
+      </table_items>
+    </table>
+    <table name="Spear">
+      <table_items>
+        <table_entry item="Wooden Spear" weight="10" />
+      </table_items>
+    </table>
+    <!-- Enemies //-->
+    <table name="Enemies">
+      <table_items>
+        <table_entry table="Skeleton" weight="10" />
+        <table_entry table="Rat" weight="10" />
+        <table_entry table="Specter" weight="1" />
+      </table_items>
+    </table>
+    <table name="Rat">
+      <table_items>
+        <table_entry item="Rat" weight="10" />
+      </table_items>
+    </table>
+    <table name="Specter">
+      <table_items>
+        <table_entry item="Specter" weight="10" />
+      </table_items>
+    </table>
+    <table name="Skeleton">
+      <table_items>
+        <table_entry item="Skeleton" weight="50" />
+        <table_entry item="Mage Skeleton" weight="20" />
+        <table_entry item="King Skeleton" weight="10" />
+      </table_items>
+    </table>
+  </tables>
+</loot_table>

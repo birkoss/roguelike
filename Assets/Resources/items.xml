@@ -1,0 +1,64 @@
+<item_master>
+  <items>
+    <item name="Silver Sword">
+      <prefab>0</prefab>
+      <modifiers>
+        <stat name="attack" value="4" />
+      </modifiers>
+    </item>
+    <item name="Emerald Sword">
+      <prefab>1</prefab>
+      <modifiers>
+        <stat name="attack" value="8" />
+      </modifiers>
+    </item>
+    <item name="Gold Sword">
+      <prefab>2</prefab>
+      <modifiers>
+        <stat name="attack" value="13" />
+      </modifiers>
+    </item>
+    <item name="Diamond Sword">
+      <prefab>3</prefab>
+      <modifiers>
+        <stat name="attack" value="19" />
+      </modifiers>
+    </item>
+    <item name="Ninja Sword">
+      <prefab>4</prefab>
+      <modifiers>
+        <stat name="attack" value="26" />
+      </modifiers>
+    </item>
+    <item name="Muramasa">
+      <prefab>5</prefab>
+      <modifiers>
+        <stat name="attack" value="34" />
+      </modifiers>
+    </item>
+    <item name="Bastard Sword">
+      <prefab>6</prefab>
+      <modifiers>
+        <stat name="attack" value="43" />
+      </modifiers>
+    </item>
+    <item name="Broad Sword">
+      <prefab>7</prefab>
+      <modifiers>
+        <stat name="attack" value="53" />
+      </modifiers>
+    </item>
+    <item name="Demon Killer">
+      <prefab>8</prefab>
+      <modifiers>
+        <stat name="attack" value="65" />
+      </modifiers>
+    </item>
+    <item name="Diabolic Sword">
+      <prefab>9</prefab>
+      <modifiers>
+        <stat name="attack" value="80" />
+      </modifiers>
+    </item>
+  </items>
+</item_master>
